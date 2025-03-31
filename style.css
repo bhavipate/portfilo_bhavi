@@ -11,7 +11,7 @@ body {
     padding: 0;
     background-color: black;
     font-family: 'Abel', sans-serif;
-    background-color: #afeaea;
+    background-color: #91b1dd;
 }
 
 .navbar {    
@@ -33,14 +33,14 @@ body {
 }
 
 .nav-link {
-    color: #5E376D;
+    color: #7bbde1;
     font-weight: 600;
     letter-spacing: 0.7px;
 }
 
 .nav-link:hover {
     /* text-decoration: underline; */
-    color: #5E376D !important;
+    color: #7fe3ee !important;
 }
 
 
@@ -72,7 +72,7 @@ body {
 .navbar-brand
 {
     font-size: 18px;
-    color: #5E376D !important;
+    color: #37436d !important;
     text-transform: capitalize;
     margin-left: 140px;
     letter-spacing: 1px;
@@ -114,7 +114,7 @@ body {
 }
 
 
-.about-aadi {
+.about-bhavi {
     /* https://ui.glass/generator/ */
     backdrop-filter: blur(16px) saturate(180%);
     -webkit-backdrop-filter: blur(16px) saturate(180%);
@@ -166,7 +166,7 @@ skills {
         line-height: 37px;
     }
 
-    .about-aadi {
+    .about-bhavi {
         /* margin: 0%; */
         padding: 10px;
         font-family: 10px;
